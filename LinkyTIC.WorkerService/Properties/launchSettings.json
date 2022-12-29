@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LinkyTIC.WorkerService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkyTIC.API", "LinkyTIC.API\LinkyTIC.API.csproj", "{B7E2A55D-A653-4A88-B425-2FF7BFF9000A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkyTIC.WorkerService", "LinkyTIC.WorkerService\LinkyTIC.WorkerService.csproj", "{E7B72B43-28B1-4483-BD7D-2E2BD341C0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7E2A55D-A653-4A88-B425-2FF7BFF9000A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E2A55D-A653-4A88-B425-2FF7BFF9000A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E2A55D-A653-4A88-B425-2FF7BFF9000A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E2A55D-A653-4A88-B425-2FF7BFF9000A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B72B43-28B1-4483-BD7D-2E2BD341C0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B72B43-28B1-4483-BD7D-2E2BD341C0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B72B43-28B1-4483-BD7D-2E2BD341C0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B72B43-28B1-4483-BD7D-2E2BD341C0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F57E1924-135D-4094-B53F-937562904BA0}
+	EndGlobalSection
+EndGlobal
